@@ -1,2 +1,3 @@
+# External dependencies
 scapy>=2.4.5
 scapy_contrib

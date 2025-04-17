@@ -1,4 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+# Distribution
+build/
+dist/
+*.egg-info/
+# Virtual environments
+env/
+venv/
+.venv/
+.env/
+# Logs
+*.log
+# IDE
+.vscode/
 .idea/
-tests/test_aruba_ssid_configurator.py
-tests/test_extension_file_organizer.py
-.idea/
+# OS
+.DS_Store
+# Project-specific
+tests/output/
+archive/
