@@ -1,3 +1,4 @@
 .idea/
 tests/test_aruba_ssid_configurator.py
 tests/test_extension_file_organizer.py
+.idea/
